@@ -1,0 +1,10 @@
+{
+	"id": "quarto-exporter",
+	"name": "Quarto Exporter",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Converts the active Markdown file to a Quarto (.qmd) file.",
+	"author": "YourName",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
