@@ -1,10 +1,10 @@
 {
-	"id": "MarkDowntoQuarto",
-	"name": "MarkDowntoQuarto",
+	"id": "markdowntoquarto",
+	"name": "markdowntoquarto",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Converts the active Markdown file to a Quarto (.qmd) file.",
-	"author": "YourName",
-	"authorUrl": "",
+	"description": "This is a plugin to export markdown to qmd while preserving the YAML style of quarto.",
+	"author": "Pranay Kotasthane",
+	"authorUrl": "https://github.com/pranaykotas",
 	"isDesktopOnly": true
 }
