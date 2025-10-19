@@ -1,5 +1,5 @@
 {
-	"name": "quarto-exporter",
+	"name": "MarkDowntoQuarto",
 	"version": "1.0.0",
 	"description": "Quarto Exporter Plugin",
 	"main": "main.js",
